@@ -1,0 +1,123 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ 產生的 Include 檔案。
+// 由 game.rc 使用
+//
+#define IDD_ABOUTBOX                    100
+#define IDP_SOCKETS_INIT_FAILED         104
+#define IDR_MAINFRAME                   128
+#define IDR_GAMETYPE                    129
+#define IDB_BALL                        130
+#define IDB_RACKET                      131
+#define IDB_ERASER1                     131
+#define IDB_BITMAP1                     132
+#define IDB_CORNER                      133
+#define IDB_BALL1                       134
+#define IDB_BALL2                       135
+#define IDB_BALL3                       136
+#define IDB_BALL4                       137
+#define IDB_0                           138
+#define IDB_1                           139
+#define IDB_2                           140
+#define IDB_3                           141
+#define IDB_4                           142
+#define IDB_5                           143
+#define IDB_6                           144
+#define IDB_7                           145
+#define IDB_8                           146
+#define IDB_9                           147
+#define IDB_MINUS                       148
+#define IDB_CENTER                      149
+#define IDB_ERASER2                     150
+#define IDB_ERASER3                     151
+#define IDB_CONTINUE                    152
+#define IDC_GAMECURSOR                  153
+#define IDB_HELP                        155
+#define IDB_BITMAP2                     156
+#define IDB_LOADING                     156
+#define IDB_Tamama                      159
+#define IDB_BITMAP4                     161
+#define IDB_RD                          161
+#define IDB_BD                          202
+#define IDB_START                       203
+#define IDB_BACKGROUND1                 205
+#define IDB_QUESTION                    207
+#define IDB_PLAY                        208
+#define IDB_TOOL                        209
+#define IDB_WORD                        210
+#define IDB_BLUEDOWN                    212
+#define IDB_BLUEJUMP                    213
+#define IDB_BLUERUN1                    215
+#define IDB_BLUERUN2                    216
+#define IDB_BLUERUN3                    217
+#define IDB_BLUERUN4                    218
+#define IDB_BLUERUN5                    219
+#define IDB_BLUERUN6                    220
+#define IDB_BLUERUN7                    221
+#define IDB_BLUERUN8                    222
+#define IDB_RED                         223
+#define IDB_REDDOWN                     224
+#define IDB_REDJUMP                     225
+#define IDB_REDRUN1                     226
+#define IDB_REDRUN2                     227
+#define IDB_REDRUN3                     228
+#define IDB_REDRUN4                     229
+#define IDB_REDRUN5                     230
+#define IDB_REDRUN6                     231
+#define IDB_REDRUN7                     232
+#define IDB_STAGE                       234
+#define IDB_LEVEL                       235
+#define IDB_BACK                        236
+#define IDB_BDOOR                       237
+#define IDB_RDOOR                       238
+#define IDB_BLUELRUN1                   239
+#define IDB_BLUELRUN2                   240
+#define IDB_BLUELRUN3                   241
+#define IDB_BLUELRUN4                   242
+#define IDB_BLUELRUN5                   243
+#define IDB_BLUELRUN6                   244
+#define IDB_BLUELRUN7                   245
+#define IDB_REDLRUN1                    246
+#define IDB_REDLRUN2                    247
+#define IDB_REDLRUN3                    248
+#define IDB_REDLRUN4                    249
+#define IDB_REDLRUN5                    250
+#define IDB_REDLRUN6                    251
+#define IDB_REDLRUN7                    252
+#define IDB_ENDBACK                     253
+#define IDB_MARK                        254
+#define IDB_X                           255
+#define IDB_ORANGE                      256
+#define IDB_PURPLE                      257
+#define IDB_BLUE                        260
+#define IDB_BACKGROUND2                 265
+#define IDB_BACKGROUND3                 266
+#define IDB_BACKGROUND4                 267
+#define IDB_BACKGROUND5                 270
+#define IDB_BUTTON                      271
+#define IDB_ELEVATOR                    272
+#define IDB_LEFT                        273
+#define IDB_RIGHT                       274
+#define IDB_STONE                       275
+#define IDB_GAMEOVER                    276
+#define IDB_VELEVATOR                   277
+#define IDB_FAN                         278
+#define IDB_BITMAP3                     279
+#define IDB_SHOWABOUT                   279
+#define IDC_README                      1001
+#define ID_FILE_PAUSE                   32771
+#define ID_TOGGLE_FULLSCREEN            32772
+#define ID_BUTTON_FULLSCREEN            32773
+#define ID_BUTTON_PAUSE                 32774
+#define ID_BUTTON_UNITTEST              32775
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_3D_CONTROLS                     1
+#define _APS_NEXT_RESOURCE_VALUE        280
+#define _APS_NEXT_COMMAND_VALUE         32776
+#define _APS_NEXT_CONTROL_VALUE         1003
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif
